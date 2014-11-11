@@ -135,3 +135,9 @@ Objective-C - https://github.com/nybex/NYMnemonic
 
 Haskell - https://github.com/haskoin/haskoin
 
+Javascript - https://github.com/weilu/bip39
+
+Javascript - https://github.com/bitpay/bitcore/blob/master/lib/BIP39.js
+
+PHP - https://github.com/Bit-Wasp/bitcoin-lib-php
+
